@@ -25,6 +25,9 @@ import android.widget.EditText;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This is my chatbot
+ */
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
