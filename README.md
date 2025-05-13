@@ -8,3 +8,6 @@ A work-in-progress conversational chatbot designed to provide intelligent and in
 4. Class: Text Analyzer
 5. Class: Database 
 6. Class: User Interface (UI)
+
+
+ONLY FOR LEARNING PURPOSE
